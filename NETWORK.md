@@ -1,11 +1,16 @@
-# 🔗 Zion App Network
+# 🌐 Part of the Zion App Network
 
-This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Zion AI Video Studio** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full catalog: https://ziontechgroup.com/apps/
-- 📢 Network overview: https://ziontechgroup.com/app-network/
-- 💻 GitHub: https://github.com/Zion-support
-- ✉️ commercial@ziontechgroup.com
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
 
-**Related apps:** [ai-image-generator](https://github.com/Zion-support/ai-image-generator) · [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) · [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator)
+## Related apps
+- [Zion AI Video Translator](https://github.com/Zion-support/zion-ai-video-translator)
+- [Zion AI Translation Hub](https://github.com/Zion-support/zion-ai-translation-hub)
+- [AI Growth Marketing Hub](https://github.com/Zion-support/ai-growth-marketing-hub)
+
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
