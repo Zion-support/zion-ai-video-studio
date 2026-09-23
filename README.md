@@ -21,3 +21,6 @@ Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 - 🧰 [Apps Showcase](https://github.com/Zion-support/zion-support.github.io/blob/main/APPS_SHOWCASE.md) · 📰 [Latest network news (Sep 2026)](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
 - 🚚 [Field Services & Logistics spotlight](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_FIELD_LOGISTICS.md) · 🛠️ [Field Services Suite](https://github.com/Zion-support/zion-support.github.io/blob/main/FIELD_SERVICES_SUITE.md)
 - 🌐 [ziontechgroup.com](https://ziontechgroup.com/) · [Plans](https://ziontechgroup.com/plans/) · [Discovery $99](https://ziontechgroup.com/discovery/)
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
